@@ -45,3 +45,4 @@ Resources for pixel art/animation:
 - Video Game Animation Study Youtube Channel: https://www.youtube.com/@VideoGameAnimationStudy
 - AdamCYounis pixel art class playlist: https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_
 - Slynyrd Pixel Art Blog/Tutorials: https://www.slynyrd.com/blog
+- Palletes for Pixel art: https://lospec.com/palette-list
