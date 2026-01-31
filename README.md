@@ -43,6 +43,6 @@ Overarching Goals
 Resources for pixel art/animation:
 - 10 min intro to pixel art: https://www.youtube.com/watch?v=DKmrBUpd0yw
 - Video Game Animation Study Youtube Channel: https://www.youtube.com/@VideoGameAnimationStudy
-- AdamCYounis pixel art class playlist: https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_
+- AdamCYounis pixel art class playlist: https://youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_&si=3ulcs86ijbMc7sOg
 - Slynyrd Pixel Art Blog/Tutorials: https://www.slynyrd.com/blog
 - Palletes for Pixel art: https://lospec.com/palette-list
